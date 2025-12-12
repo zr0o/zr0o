@@ -1,11 +1,11 @@
 ## 👋 Hi, I'm Bipul Ghimire  
 
-🚀 **Cybersecurity Professional | Security Engineer | Security Consultant**
+🚀 **Cybersecurity Professional | Security Engineer**
 
 ---
 
 ### 🧠 About Me  
-I'm a **Cybersecurity Engineer** with over **5 years of professional experience** in **penetration testing, threat intelligence, and incident response**.  
+I'm a **Security Engineer** with over **5 years of professional experience** in **penetration testing, security engineering, threat intelligence, and incident response**.  
 I’m currently pursuing my **Master’s degree** in cybersecurity, where my research focuses on **Autonomous Security Hardening Framework: For enhanced, scalable and continous security**.  
 
 I’m passionate about:
