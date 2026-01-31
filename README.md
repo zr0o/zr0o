@@ -6,7 +6,7 @@
 
 ### 🧠 About Me  
 I'm a **Security Engineer** with over **5 years of professional experience** in **penetration testing, security engineering, threat intelligence, and incident response**.  
-I’m recently completed my **Master’s degree** in cybersecurity, where my research focuses on **Autonomous Security Hardening Framework: For enhanced, scalable and continous security**.  
+I’m recently completed my **Master’s degree** in IT and Applied Security and have had a **Bachelor's Degree** in Computer Networking and IT Security.  
 
 I’m passionate about:
 - Securing digital infrastructures through curative offense and proactive defense  
