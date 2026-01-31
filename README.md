@@ -6,7 +6,7 @@
 
 ### 🧠 About Me  
 I'm a **Security Engineer** with over **5 years of professional experience** in **penetration testing, security engineering, threat intelligence, and incident response**.  
-I’m currently pursuing my **Master’s degree** in cybersecurity, where my research focuses on **Autonomous Security Hardening Framework: For enhanced, scalable and continous security**.  
+I’m recently completed my **Master’s degree** in cybersecurity, where my research focuses on **Autonomous Security Hardening Framework: For enhanced, scalable and continous security**.  
 
 I’m passionate about:
 - Securing digital infrastructures through curative offense and proactive defense  
@@ -16,9 +16,11 @@ I’m passionate about:
 ---
 
 ### 🧩 Professional Highlights  
-- 🛡️ **CompTIA CySA+ CE Certified | MasterMind ISO/IEC 27001:2022 LA Certified | ISC2 CC Certified**  
+- 🛡️ **CompTIA CySA+ CE Certified | MasterMind ISO/IEC 27001:2022 LA Certified | ISC2 CC Certified | Red Team Learners CCEP | Mastering CVSS v3.1**  
 - 🧰 Hands-on experience with **LogPoint SIEM**, **OpenCTI**, **MISP**, **ELK Stack**, and **MITRE ATT&CK mapping**  
-- 💡 Designed and implemented a **real-time threat intelligence integration** system for organizational SIEM  
+- 💡 Designed and implemented a **real-time threat intelligence integration** system for organizational SIEM
+- 🧑‍🔬 Implemented and enhanced the layered security via engineering WAF F5, Eset AV, security hardening, and monitoring/correlating within SIEM.
+- ⚙️ Implemented the CI/CD (Git-CI) pipeline, integrating SonarQube for SAST and OWASP ZAP for DAST.
 - 🔍 Conducted extensive **vulnerability assessments and penetration tests** for enterprise applications  
 - 📊 Delivered **cybersecurity awareness training** to regulatory financial institutions in Nepal  
 
@@ -33,9 +35,9 @@ I’m passionate about:
 ---
 
 ### 🧪 Current Projects
-- 🧠 **Autonomous Security Hardening Framework: For enhanced, scalable and continous security**
+- 🧠 Masters Dissertation - **Autonomous Security Hardening Framework: For enhanced, scalable and continous security**
 - 🧩 **AI-based Threat Intelligence Correlation System** — Integrating OpenCTI with SIEM for automated analysis  
-- 🧩 **PentestGPT Research** — Exploring GPT-assisted vulnerability assessment for my master’s thesis  
+- 🧩 **PentestGPT Research** — Exploring GPT-assisted vulnerability assessment 
 - 🔍 **Bug Bounty Research** — Continuous testing of real-world web apps and reporting vulnerabilities  
 
 ---
