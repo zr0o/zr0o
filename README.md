@@ -43,9 +43,9 @@ I’m passionate about:
 ---
 
 ### 🎯 Goals
-- Become a **Security Architect** specializing in Cloud security
+- Aspiring **Security Architect**
 - Contribute to open-source cybersecurity tools  
-- Collaborate globally on cutting-edge threat intelligence research  
+- Collaborate globally on cutting-edge research  
 
 ---
 
